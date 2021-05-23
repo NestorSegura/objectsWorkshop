@@ -1,0 +1,14 @@
+{
+  "name": "js-workshop",
+  "version": "1.0.0",
+  "description": "workshops to learn javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Nestor Segura",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
